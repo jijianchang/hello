@@ -10,7 +10,7 @@ public class HelloApplication {
         SpringApplication.run(HelloApplication.class, args);
         System.out.println("hello");
         System.out.println("ww");
-
+        System.out.println("ww");
     }
 
 }
